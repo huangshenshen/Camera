@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/cat_angry0000" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0001" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0002" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0003" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0004" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0005" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0006" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0007" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0008" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0009" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0010" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0011" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0012" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0013" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0014" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0015" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0016" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0017" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0018" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0019" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0020" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0021" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0022" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0023" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0024" android:duration="50" />
+    <item android:drawable="@drawable/cat_angry0025" android:duration="50" />
+
+</animation-list>
