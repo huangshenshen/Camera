@@ -5,7 +5,7 @@ android {
     buildToolsVersion "24.0.0"
 
     defaultConfig {
-        applicationId "com.cninter.animation"
+        applicationId "com.cninter.alpha"
         minSdkVersion 10
         targetSdkVersion 24
         versionCode 1

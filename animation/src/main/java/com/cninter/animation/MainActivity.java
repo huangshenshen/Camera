@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity  {
         alphaButton.setOnClickListener(new AlphaButtonListener());
 
     }
+    //淡入淡出
     class AlphaButtonListener implements View.OnClickListener{
 
         @Override
