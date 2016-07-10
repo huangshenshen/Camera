@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search1"
+        android:title="搜索1"
+        app:showAsAction="ifRoom"/>
+
+
+    <item
+        android:id="@+id/search2"
+        android:title="搜索2"
+        app:showAsAction="ifRoom"/>
+
+
+    <item
+        android:id="@+id/search3"
+        android:title="搜索3"
+        app:showAsAction="ifRoom"/>
+
+
+    <item
+        android:id="@+id/search4"
+        android:title="搜索4"
+        app:showAsAction="ifRoom"/>
+
+
+
+</menu>
