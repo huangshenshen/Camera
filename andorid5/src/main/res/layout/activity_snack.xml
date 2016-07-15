@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    tools:context="com.cninter.andorid5.SnackActivity">
+    <Button
+        android:id="@+id/snackbar_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="显示"/>
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/float_action_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        app:backgroundTint="#00ff00"
+        app:rippleColor="#cc0000"
+        android:src="@mipmap/ic_launcher"
+        app:elevation="4dp"
+        app:pressedTranslationZ="20dp"
+        app:fabSize="auto"
+        />
+</RelativeLayout>
